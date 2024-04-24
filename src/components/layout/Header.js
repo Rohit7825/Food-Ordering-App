@@ -6,7 +6,7 @@ export default function Header() {
       <Link className="text-primary font-semibold text-2xl" href="">
         ST PIZZA
       </Link>
-      <nav className="flex gap-8 text-gray-600 font-semibold items-center">
+      <nav className="flex gap-8 text-gray-500 font-semibold items-center">
         <Link href={""}>Home</Link>
         <Link href={""}>Menu</Link>
         <Link href={""}>About</Link>
